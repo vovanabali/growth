@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkultima_ng=self.webpackChunkultima_ng||[]).push([[172],{8172:(s,n,u)=>{u.r(n),u.d(n,{PhotoModule:()=>a});var l=u(6895),t=u(8256);let a=(()=>{class o{}return o.\u0275fac=function(e){return new(e||o)},o.\u0275mod=t.oAB({type:o}),o.\u0275inj=t.cJS({imports:[l.ez]}),o})()}}]);
